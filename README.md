@@ -74,17 +74,15 @@ pip install tqdm kagglehub
 TOP 2 MATCHING CANDIDATES
 ============================================================
 
-1. Naren Sr.BA.docx
-   Similarity Score: 0.5356
-   Key Skills: Java, SQL, Power BI, 9+ years of experience, data analysis
-   AI Assessment: This candidatehas strong technical skills with a solid background in data engineering. They have extensive experience with data analysis and ETL processes, which is crucial for building efficient data pipelines. Their ability to work with databases and write complex SQL queries will be beneficial in optimizing data retrieval and performance. Additionally, their proficiency with tools like Power BI and Tableau suggests they can effectively visualize and communicate data insights, which are important traits for any data engineer.
+1. Mohammad Resume.docx
+   Similarity Score: 0.4011
+   Key Skills: SAS, R, Java, SQL, AWS
+   AI Assessment: This candidatehas experience in performing gap analysis and working closely with senior business analysts. However, there's a lack of specific examples or case studies showcasing how they applied these skills in real-world scenarios. Feedback: The candidate is technically skilled but needs more concrete examples from their work history to demonstrate effectiveness.
 
-2. jane_smith_resume.docx
-   Similarity Score: 0.8231
-   Key Skills: Data Science, R, Statistics, Tableau, SQL
-   AI Assessment: This candidate shows excellent analytical skills and 
-   data visualization experience, making them a strong fit for 
-   data-driven roles.
+2. Robinson.docx
+   Similarity Score: 0.3980
+   Key Skills: data analysis, 10 years of experience, JAVA, SQL
+   AI Assessment: This candidatehas over 10+ years in Data Analysis. He is very strong in Java and SQL, which are essential for any data-related work. His experience includes working with large financial institutions, so he should have a good grasp of handling sensitive data. The fact that he interacted with business users and stakeholders indicates he can communicate effectively, which is crucial in collaborative environments.
 ```
 
 ## 🔧 Configuration
