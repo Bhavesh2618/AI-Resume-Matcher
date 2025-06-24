@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - pidugubhaveshkumar@gmail.com
+Mail ID - pidugubhaveshkumar@gmail.com
 
 Project Link: [https://github.com/Bhavesh2618/ai-resume-matcher](https://github.com/Bhavesh2618/ai-resume-matcher)
 
